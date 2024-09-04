@@ -5,17 +5,3 @@
 🌱 I’m currently learning advanced API integrations and modern JavaScript frameworks.
 💬 Ask me about full-stack development, scalable web solutions, and UI/UX design.
 ⚡ Fun fact: I love turning complex ideas into simple, user-friendly experiences!
-
-🌐 Socials:
-Facebook Instagram LinkedIn Stack Overflow X Codepen
-
-💻 Tech Stack:
-HTML5 JavaScript jQuery PHP CSS3 JavaScript FastAPI Context-API Laravel Portfolio Postman GitHub Git MySQL Apache Web3.js Three js WordPress SASS Chart.js
-
-📊 GitHub Stats:
-
-
-
-
-
-
